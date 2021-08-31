@@ -4,11 +4,16 @@ categories:
   - Basic Web knowledge
 tags:
   - internet
+toc: true
+toc_sticky: true
+toc_label: "Contents"
 ---
 
-# 인터넷은 어떻게 작동하는가? (How does the internet work?)
 
-## 시작에 앞서서
+
+
+
+# 시작에 앞서서
 
 안녕하세요. 처음으로 인사드립니다.
 
@@ -17,6 +22,4 @@ tags:
 그리고 이 경험과 배운 지식들을 직업 블로그에 올려서 지식을 탄탄하게 쌓고 다른 분들과 공유하고자 합니다.
 
 **열심히 해보겠습니다! 잘 부탁드립니다!**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zN8YNNHcaZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
