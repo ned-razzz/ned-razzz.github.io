@@ -2,8 +2,8 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-$sans-serif: 'Noto Sans KR';
-$monospace: 'Ubuntu Mono';
+$sans-serif: 'Nanum Gothic Coding';
+$monospace: 'Nanum Gothic Coding';
 $type-size-4-5: 1.12em !default; // Ubuntu Mono is a bit small
 
 @charset "utf-8";
@@ -11,7 +11,7 @@ $type-size-4-5: 1.12em !default; // Ubuntu Mono is a bit small
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-@import url(https://fonts.googleapis.com/css?family=Noto+Sans+KR|Ubuntu+Mono);
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic+Coding:wght@400;700&display=swap');
 
 // https://github.com/mmistakes/minimal-mistakes/issues/1219
 html {
@@ -38,7 +38,7 @@ html {
 .language-plaintext {
   font-family: $monospace;
   font-size: $type-size-5;
-  background: #c0ffee;
+  background: #e6fad9;
 }
 
 blockquote {
